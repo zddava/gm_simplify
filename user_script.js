@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         网页简化
 // @namespace    github.com/zddava/gm_simplify
-// @version      0.1
+// @version      0.2
 // @description  simplify some web pages
 // @author       archer
 // @match        *://*.cnblogs.com/*/*.html
